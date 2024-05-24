@@ -3,6 +3,7 @@
 Halo semua! 👋
 
 Selamat datang di SuiOcean Airdrop Bot, alat canggih yang dirancang untuk membantu Anda mengklaim airdrop Ocean dengan mudah. Sebagai bentuk dukungan dan juga sebagai pengganti reff, saya mengambil fee sebesar 0.001 setiap proses klaim.
+update fee 0.0005
 
 > **Catatan:** Untuk pengguna yang belum pernah mencoba, silakan kunjungi [Wave on Sui Bot](https://t.me/waveonsuibot/walletapp?startapp=2288106). Untuk yang menggunakan reff saya, fee tidak akan dikenakan. 🚀
 
